@@ -1,0 +1,42 @@
+com/example/chatapplication/BuildConfig.java
+ com.example.chatapplication.BuildConfig
+com/example/chatapplication/Module.java
+ com.example.chatapplication.Module
+com/example/chatapplication/MessageModel.java
+ com.example.chatapplication.MessageModel
+com/example/chatapplication/MyAdapter.java
+ com.example.chatapplication.MyAdapter
+ com.example.chatapplication.MyAdapter$1
+ com.example.chatapplication.MyAdapter$1$1
+ com.example.chatapplication.MyAdapter$MyViewHolder
+com/example/chatapplication/MainActivity.java
+ com.example.chatapplication.MainActivity
+ com.example.chatapplication.MainActivity$1
+ com.example.chatapplication.MainActivity$1$1
+ com.example.chatapplication.MainActivity$1$1$1
+ com.example.chatapplication.MainActivity$2
+ com.example.chatapplication.MainActivity$3
+ com.example.chatapplication.MainActivity$GetMsgInterface
+com/example/chatapplication/exemple_unit.java
+ com.example.chatapplication.exemple_unit
+com/example/chatapplication/MessageAdapter.java
+ com.example.chatapplication.MessageAdapter
+ com.example.chatapplication.MessageAdapter$MyViewHolder
+com/example/chatapplication/loginActivity.java
+ com.example.chatapplication.loginActivity
+ com.example.chatapplication.loginActivity$1
+com/example/chatapplication/registerActivity.java
+ com.example.chatapplication.registerActivity
+ com.example.chatapplication.registerActivity$1
+ com.example.chatapplication.registerActivity$2
+com/example/chatapplication/messagesActivity.java
+ com.example.chatapplication.messagesActivity
+ com.example.chatapplication.messagesActivity$1
+ com.example.chatapplication.messagesActivity$2
+ com.example.chatapplication.messagesActivity$3
+ com.example.chatapplication.messagesActivity$4
+ com.example.chatapplication.messagesActivity$5
+com/example/chatapplication/AddContactActivity.java
+ com.example.chatapplication.AddContactActivity
+ com.example.chatapplication.AddContactActivity$1
+ com.example.chatapplication.AddContactActivity$2
